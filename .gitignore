@@ -2,6 +2,7 @@
 *.iws
 *.ipr
 *.class
+*.idea
 .project
 .classpath
 keystore
